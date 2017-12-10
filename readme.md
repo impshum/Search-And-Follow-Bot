@@ -12,9 +12,9 @@ A Twitter bot which searches for a term or hashtag then replies to and follows t
 ### Instructions
 
 * Edit config.py (add twitter keys, search terms, messages and timer).
-* Open terminal/prompt and cd into search-follow directory.
+* Open terminal/prompt and cd into the directory.
 
-        cd path/to/search-follow
+        cd path/to/Search-And-Follow-Bot-1.0
 
 * Run it
 
