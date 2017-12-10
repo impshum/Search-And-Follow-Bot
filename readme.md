@@ -14,7 +14,7 @@ A Twitter bot which searches for a term or hashtag then replies to and follows t
 * Edit config.py (add twitter keys, search terms, messages and timer).
 * Open terminal/prompt and cd into the directory.
 
-        cd path/to/Search-And-Follow-Bot-1.0
+        cd path/to/folder
 
 * Run it
 
