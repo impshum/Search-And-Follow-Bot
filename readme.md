@@ -1,6 +1,6 @@
 ### What is this?
 
-A Twitter bot which searches for a term or hashtag then replies to and follows the user.
+A Twitter bot which searches for a term or hashtag then replies to found tweet and follows the user.
 
 ![Search & Follow](https://raw.githubusercontent.com/impshum/Search-And-Follow-Bot/master/screenshot.jpg)
 
