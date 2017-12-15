@@ -50,7 +50,7 @@ def searchfollow():
                 print(Colour.Green + 'Found:', s.text)
                 time.sleep(3)
                 print(Colour.Green + 'Tweeting:', ' '.join(out))
-                #api.update_status(out, s.id)
+                api.update_status(' '.join(out), in_reply_to_status_id=s.id)
                 time.sleep(3)
 
                 if not s.user.following:
